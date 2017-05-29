@@ -6,7 +6,7 @@ __pycache__
 blog_old.md
 node_modules
 .idea/*
-.sqlite
+*.sqlite
 *.pyc
 tmp
 static/dist
